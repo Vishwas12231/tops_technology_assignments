@@ -1,3 +1,6 @@
 # tops_technology_assignments
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishwas-thummar)
+<a href="https://www.linkedin.com/vishwas-thummar">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+
